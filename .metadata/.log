@@ -5626,3 +5626,13 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infin
 
 !ENTRY com.infineon.aurix.buildsystem 1 0 2023-10-04 10:35:10.878
 !MESSAGE Include paths were discovered in 122 milliseconds.
+!SESSION 2023-10-05 11:21:45.888 -----------------------------------------------
+eclipse.buildId=1.5.4
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-05 13:35:58.865
+!MESSAGE Indexed '011_tc275_final_PROJECT' (68 sources, 427 headers) in 31.3 sec: 102,772 declarations; 56,640 references; 6 unresolved inclusions; 2,503 syntax errors; 5,918 unresolved names (3.6%)
