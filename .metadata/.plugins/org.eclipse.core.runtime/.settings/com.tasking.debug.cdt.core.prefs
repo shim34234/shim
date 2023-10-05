@@ -1,0 +1,17 @@
+001_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.0.type=2
+001_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.1.API_index=3
+001_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.1.type=3
+001_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.count=2
+15_tc275_hello.MCDS.MCDS.pfa_event_pair.0.type=2
+15_tc275_hello.MCDS.MCDS.pfa_event_pair.1.API_index=3
+15_tc275_hello.MCDS.MCDS.pfa_event_pair.1.type=3
+15_tc275_hello.MCDS.MCDS.pfa_event_pair.count=2
+16_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.0.type=2
+16_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.1.API_index=3
+16_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.1.type=3
+16_tc275_gpo_led_output.MCDS.MCDS.pfa_event_pair.count=2
+18_tc275_gpo_led_output_using_header.MCDS.MCDS.pfa_event_pair.0.type=2
+18_tc275_gpo_led_output_using_header.MCDS.MCDS.pfa_event_pair.1.API_index=3
+18_tc275_gpo_led_output_using_header.MCDS.MCDS.pfa_event_pair.1.type=3
+18_tc275_gpo_led_output_using_header.MCDS.MCDS.pfa_event_pair.count=2
+eclipse.preferences.version=1

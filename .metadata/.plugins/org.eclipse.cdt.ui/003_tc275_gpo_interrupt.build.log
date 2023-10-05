@@ -1,0 +1,12 @@
+Aurix Flasher 2.2.1.0, built on 2020-10-02 ¿ÀÈÄ 4:20:38
+Given Command Lines Parameters: 
+    Arg[0-1] = [-hex 003_tc275_gpo_interrupt.hex]
+DAS init done
+::Creating Flash Memory Model for TRICORE: TC27x D step
+::HEX file parsing .......... (Done)
+::Checking address map .......... (Done)
+::Flash memory erase .......... (Done)
+::Flash memory program .......... (Done)
+Overall time: 1537 ms
+AurixFlasher Exit Status: pass
+Flashing was successfull
